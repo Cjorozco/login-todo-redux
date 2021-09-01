@@ -1,7 +1,8 @@
-- Login
+Funcionalidad
+- Login + Redux
 - Rutas protegidas
 - Lista de tareas (CRUD)
 
-Apis
+APIs
 
 - https://crudcrud.com/
