@@ -1,6 +1,6 @@
 - Login
 - Rutas protegidas
-- Lista de tareas
+- Lista de tareas (CRUD)
 
 Apis
 
